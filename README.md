@@ -34,7 +34,8 @@ I am a B.Tech Information Technology student passionate about software developme
 - Web-based nail condition detection project using image analysis.
 - **Technologies:** HTML, CSS, JavaScript
 - [🔗 Live Demo](https://swathi11952.github.io/Nail-Detection/)
-- [📂 Source Code](https://github.com/Swathi11952/Nail-Detection)  
+- [📂 Source Code](https://github.com/Swathi11952/Nail-Detection)
+  
 ## 💼 Prodigy Infotech Internship
 
 Completed Web Development Internship at Prodigy Infotech.
@@ -50,6 +51,11 @@ Completed Web Development Internship at Prodigy Infotech.
 
 - **UX and UI Design Intern** – National Small Industries Corporation Limited
 - **Java Full Stack Development Intern** – Retech Solutions Pvt. Ltd.
+  **Project: Employee Management System**
+  - Developed a web-based Employee Management System to manage employee information.
+  - Implemented employee registration, adding, updating, deleting and viewing employee details.
+  - Integrated frontend, backend and database for efficient employee data management.
+  - **Technologies:** Java, HTML, CSS, JavaScript, MongoDB
 
 ## 📚 Currently Learning
 
