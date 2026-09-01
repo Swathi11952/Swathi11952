@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Swathi S 👋
 
-<!--
-**Swathi11952/Swathi11952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a B.Tech Information Technology student passionate about software development, problem solving, and learning new technologies. I enjoy building practical projects and improving my programming skills through hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- Java
+- C++
+- HTML
+- CSS
+- SQL
+- MongoDB
+
+## 🚀 Projects
+
+### 1. Sentiment Analysis on Hotel Management
+- Developed a hotel booking system with room selection, cost calculation, and booking confirmation.
+- Integrated SQL for customer record management.
+- **Technologies:** Python, SQL
+
+### 2. Online Train Reservation Management System
+- Built a full-stack web application for online train ticket booking.
+- Implemented user login, train search, and booking confirmation.
+- **Technologies:** HTML, CSS, JavaScript, MongoDB
+
+### 3. Hybrid Stacking Ensemble Model for Metabolic Syndrome Prediction
+- Developed a machine learning model for metabolic syndrome prediction.
+- Implemented a stacking ensemble using multiple machine learning algorithms.
+- **Technologies:** Python, Jupyter, XGBoost, CatBoost
+
+## 💼 Internship Experience
+
+- **UX and UI Design Intern** – National Small Industries Corporation Limited
+- **Java Full Stack Development Intern** – Retech Solutions Pvt. Ltd.
+
+## 📚 Currently Learning
+
+- Java
+- SQL
+- Data Structures and Algorithms
+- Full Stack Development
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/swathi-s-4745582a/)
+- [LeetCode](https://leetcode.com/u/SWATHI_S28/)
+- Email: swathisaravanan994319@gmail.com
