@@ -42,6 +42,10 @@ I am a B.Tech Information Technology student passionate about software developme
 - Data Structures and Algorithms
 - Full Stack Development
 
+  ## 📄 Resume
+
+[View My Resume](https://github.com/Swathi11952/RESUME/blob/main/SWATHI%20S_RESUME%28IT-A%29.pdf)
+
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/swathi-s-4745582a/)
