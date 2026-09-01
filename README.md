@@ -30,7 +30,7 @@ I am a B.Tech Information Technology student passionate about software developme
 - Implemented a stacking ensemble using multiple machine learning algorithms.
 - **Technologies:** Python, Jupyter, XGBoost, CatBoost
 
-### 3. Nail Detection
+### 4. Nail Detection
 - Web-based nail condition detection project using image analysis.
 - **Technologies:** HTML, CSS, JavaScript
 - [🔗 Live Demo](https://swathi11952.github.io/nail-detection/)
