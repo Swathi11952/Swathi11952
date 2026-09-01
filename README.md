@@ -35,7 +35,17 @@ I am a B.Tech Information Technology student passionate about software developme
 - **Technologies:** HTML, CSS, JavaScript
 - [🔗 Live Demo](https://swathi11952.github.io/Nail-Detection/)
 - [📂 Source Code](https://github.com/Swathi11952/Nail-Detection)  
+## 💼 Prodigy Infotech Internship
 
+Completed Web Development Internship at Prodigy Infotech.
+
+- **Task 1:** Responsive Landing Page
+- **Task 2:** Stopwatch Web Application
+- **Task 3:** Tic Tac Toe Game
+- **Task 4:** Personal Portfolio
+- **Task 5:** Weather App
+
+🔗 [View Internship Portfolio](https://swathi11952.github.io/Prodigy-Infotech-Internship/)
 ## 💼 Internship Experience
 
 - **UX and UI Design Intern** – National Small Industries Corporation Limited
