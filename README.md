@@ -33,8 +33,8 @@ I am a B.Tech Information Technology student passionate about software developme
 ### 4. Nail Detection
 - Web-based nail condition detection project using image analysis.
 - **Technologies:** HTML, CSS, JavaScript
-- [🔗 Live Demo](https://swathi11952.github.io/nail-detection/)
-- [📂 Source Code](https://github.com/Swathi11952/nail-detection)  
+- [🔗 Live Demo](https://swathi11952.github.io/Nail-Detection/)
+- [📂 Source Code](https://github.com/Swathi11952/Nail-Detection)  
 
 ## 💼 Internship Experience
 
