@@ -35,6 +35,14 @@ I am a B.Tech Information Technology student passionate about software developme
 - **Technologies:** HTML, CSS, JavaScript
 - [🔗 Live Demo](https://swathi11952.github.io/Nail-Detection/)
 - [📂 Source Code](https://github.com/Swathi11952/Nail-Detection)
+
+### 5. Temporal Event Prediction
+
+- Developed a Temporal Graph Network (TGN) based system to predict possible future interactions from historical temporal graph data.
+- Preprocessed temporal interaction data and trained TGN models to learn time-dependent interaction patterns.
+- Integrated blockchain-based hash generation to support prediction integrity and traceability.
+- **Technologies:** Python, PyTorch, TGN, Graph Neural Networks, Machine Learning, Blockchain
+- 🔗 [Source Code](https://github.com/Swathi11952/Temporal-event-prediction) 
   
 ## 💼 Prodigy Infotech Internship
 
